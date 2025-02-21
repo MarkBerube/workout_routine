@@ -40,7 +40,7 @@
 | 75% | 5 x 5 |
 
 ## Supplement Work (done each day)
-ChinUps 15lbs 3x6 or PullUps 5lbs 3x6
+Chin Ups 15lbs 3x6 or Pull Ups 5lbs 3x6
 
 Overhead Tricep Ext 30lbs x10x5 or Pushdown Tricep Ext 70lbs x10x5 or Dips w/ 5 lbs 3x6
 
