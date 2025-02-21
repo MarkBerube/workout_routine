@@ -1,4 +1,4 @@
-## RM Table 
+## TM Table 
 | Ex | Lbs |
 |---|---|
 | BP | 135 |
@@ -49,6 +49,6 @@ Hollowbody 3 mins
 Leg Raises w/ 6lbs 10x3 
 
 ## Cycles
-2 cycles of 3 weeks, then deload w/ with of TMs
+2 cycles of 3 weeks, then deload with measurement of TMs
 
 
