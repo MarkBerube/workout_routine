@@ -1,10 +1,10 @@
 ## TM Table 
 | Ex | Lbs |
 |---|---|
-| BP | 135 |
-| Squat | 160 |
-| OHP | 100 |
-| DL | 180 |
+| BP | 140 |
+| Squat | 170 |
+| OHP | 105 |
+| DL | 190 |
 
 ## Lift Schedule
 | Day | Main Lift |
@@ -46,13 +46,37 @@
 | 75% | 5+ x 1 |
 
 ## Supplement Work (done each day)
-Chin Ups 15lbs 3x6 or Pull Ups 5lbs 3x6
+### Pull
 
-Overhead Tricep Ext 30lbs x10x5 or Pushdown Tricep Ext 70lbs x10x5 or Dips w/ 5 lbs 3x5
+| Exercise | lbs - Reps/Sets |
+|---|---|
+| Chin ups | 25 - 3 x 8 |
 
-Hollowbody 3 mins
+#### OR 
 
-Leg Raises w/ 6lbs 10x3 
+| Exercise | lbs - Reps |
+|---|---|
+| Cable Fly | 50 x 10 |
+| Cable Fly  | 60 x 7 |
+| Cable Fly | 70 x 5 |
+| Cable Fly | 50 x 10 |
+
+### Push
+Dips 2 days a week, every other 1 day a week
+
+| Exercise | lbs - Reps/Sets |
+|---|---|
+| Overhead Ext | 35 - 10 x 5 |
+| Pushdown Ext | 75 - 10 x 5 |
+| Dips | 10 - 3 x 6 |
+
+### Core
+Not strict, will do other things if it gets boring
+
+| Exercise | lbs - Reps/Sets |
+|---|---|
+| Angled Crunch | 45 - 5 x 5 |
+| Hanging LR | 0 - 15 x 5 |
 
 ## Cycles
 2 cycles of 3 weeks, then deload with measurement of TMs
