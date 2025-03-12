@@ -50,7 +50,7 @@
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Chin ups | 25 - 3 x 8 |
+| Chin ups | 30 - 3 x 8 |
 
 #### OR 
 
@@ -66,9 +66,9 @@ Dips 2 days a week, every other 1 day a week
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Overhead Ext | 35 - 10 x 5 |
-| Pushdown Ext | 75 - 10 x 5 |
-| Dips | 10 - 3 x 6 |
+| Overhead Ext | 40 - 10 x 5 |
+| Pushdown Ext | 80 - 10 x 5 |
+| Dips | 15 - 3 x 6 
 
 ### Core
 Not strict, will do other things if it gets boring
