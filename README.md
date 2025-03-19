@@ -50,25 +50,25 @@
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Chin ups | 30 - 3 x 8 |
+| Chin ups | 35 - 3 x 8 |
 
 #### OR 
 
 | Exercise | lbs - Reps |
 |---|---|
-| Cable Fly | 50 x 10 |
-| Cable Fly  | 60 x 7 |
-| Cable Fly | 70 x 5 |
-| Cable Fly | 50 x 10 |
+| Cable Fly | 60 x 10 |
+| Cable Fly  | 70 x 7 |
+| Cable Fly | 80 x 5 |
+| Cable Fly | 60 x 10 |
 
 ### Push
 Dips 2 days a week, every other 1 day a week
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Overhead Ext | 40 - 10 x 5 |
-| Pushdown Ext | 80 - 10 x 5 |
-| Dips | 15 - 3 x 6 
+| Overhead Ext S | 20 - 7 x 5 |
+| Pushdown Ext | 85 - 7 x 5 |
+| Dips | 20 - 3 x 6 
 
 ### Core
 Not strict, will do other things if it gets boring
