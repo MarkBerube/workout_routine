@@ -1,10 +1,10 @@
 ## TM Table 
 | Ex | Lbs |
 |---|---|
-| BP | 140 |
-| Squat | 170 |
-| OHP | 105 |
-| DL | 190 |
+| BP | 145 |
+| Squat | 180 |
+| OHP | 110 |
+| DL | 200 |
 
 ## Lift Schedule
 | Day | Main Lift |
@@ -50,7 +50,7 @@
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Chin ups | 35 - 3 x 8 |
+| Chin ups | 33 - 3 x 8 |
 
 #### OR 
 
@@ -68,7 +68,7 @@ Dips 2 days a week, every other 1 day a week
 |---|---|
 | Overhead Ext S | 20 - 7 x 5 |
 | Pushdown Ext | 85 - 7 x 5 |
-| Dips | 20 - 3 x 6 
+| Dips | 25 - 3 x 6 
 
 ### Core
 Not strict, will do other things if it gets boring
