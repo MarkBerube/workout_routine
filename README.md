@@ -1,10 +1,10 @@
 ## TM Table 
 | Ex | Lbs |
 |---|---|
-| BP | 145 |
-| Squat | 180 |
+| BP | 150 |
+| Squat | 190 |
 | OHP | 110 |
-| DL | 200 |
+| DL | 210 |
 
 ## Lift Schedule
 | Day | Main Lift |
@@ -66,8 +66,8 @@ Dips 2 days a week, every other 1 day a week
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Overhead Ext S | 20 - 7 x 5 |
-| Pushdown Ext | 95 - 7 x 5 |
+| Overhead Ext S | 50 - 7 x 5 |
+| Pushdown Ext | 110 - 7 x 5 |
 | Dips | 25 - 3 x 6 
 
 ### Core
