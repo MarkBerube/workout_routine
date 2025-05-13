@@ -50,7 +50,7 @@
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Chin ups | 27.25 - 3 x 8 |
+| Chin ups | 30 - 3 x 8 |
 
 #### OR 
 
@@ -66,7 +66,7 @@ Dips 2 days a week, every other 1 day a week
 
 | Exercise | lbs - Reps/Sets |
 |---|---|
-| Overhead Ext S | 50 - 7 x 5 |
+| Overhead Ext S | 60 - 7 x 5 |
 | Pushdown Ext | 110 - 7 x 5 |
 | Dips | 25 - 3 x 6 
 
@@ -77,6 +77,7 @@ Not strict, will do other things if it gets boring
 |---|---|
 | Angled Crunch | 45 - 5 x 5 |
 | Hanging LR | 0 - 15 x 5 |
+| Abwheel | 10 - 15 x 5 |
 
 ## Cycles
 2 cycles of 3 weeks, then deload with measurement of TMs
