@@ -9,10 +9,10 @@
 ## Lift Schedule
 | Day | Main Lift |
 |---|---|
-| Monday | Squat |
-| Wednesday | BP |
-| Thursday | DL |
-| Saturday | OHP |
+| Wednesday | Squat |
+| Monday | BP |
+| Friday | DL |
+| Monday | OHP |
 
 ## Main Lift Percents table
 ### Week 1
