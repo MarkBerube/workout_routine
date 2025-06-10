@@ -1,10 +1,10 @@
 ## TM Table 
 | Ex | Lbs |
 |---|---|
-| BP | 150 |
-| Squat | 190 |
-| OHP | 110 |
-| DL | 210 |
+| BP | 155 |
+| Squat | 200 |
+| OHP | 120 |
+| DL | 220 |
 
 ## Lift Schedule
 | Day | Main Lift |
